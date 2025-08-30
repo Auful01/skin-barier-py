@@ -1,0 +1,5 @@
+train_data
+*.pyc
+__pycache__/
+venv/
+*.h5
